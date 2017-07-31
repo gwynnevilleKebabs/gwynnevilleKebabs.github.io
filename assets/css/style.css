@@ -163,6 +163,10 @@ div.content-wide {
     .hideOnTablet {
         display: none;
     }
+
+    .title{
+        padding-right: 0px;
+    }
 }
 
 /* PHONE */
