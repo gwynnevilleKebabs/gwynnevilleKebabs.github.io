@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>GK</title>
+    <link rel="shortcut icon" href="assets/icons/favicon.ico" type="image/x-icon">
+
+	<!-- set view to match device width and initial zoom to be normal -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta charset="utf-8">
+	<meta name="author" content="Best Kebabs, Gwynveville">
+	<meta name="keywords" content="BK, Kebab, Gwynveville, Best">
+	<meta name="description" content="Best Kebabs, Gwynveville">
+
+	<!-- OpenGraph metadata for facebook -->
+	<meta property="og:title" content="Best Kebabs, Gwynveville">
+	<meta property="og:image" content="apple-touch-icon.png">
+	<meta property="og:description" content="Best Kebabs, Gwynveville">
+
+	<!-- Twitter metadata -->
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:title" content="Best Kebabs, Gwynveville" />
+	<meta name="twitter:description" content="Best Kebabs, Gwynveville" />
+	<meta name="twitter:image" content="apple-touch-icon.png" />
+
+    <link rel="stylesheet" href="assets/css/style.css">    
+    <script src="assets/js/menuXMLParser.js"></script>
+    <script src="assets/js/slideshow.js"></script>
+    <script src="assets/js/scroll.js"></script>
+    <script src="assets/js/loader.js"></script>
+</head>
+<body>
+	<script type="text/javascript">
+    	window.onload = function () {
+    		loadMenuFromXML('menu.xml', 'menu');
+		    if (localStorage.getItem("menuPageLoaded") == null) {
+		        loadContent('menuContainer', 'loaderContainer', 3);
+		        localStorage.setItem("menuPageLoaded", "true");
+		    }else{
+		    	loadContent('menuContainer', 'loaderContainer', 0);
+		    }
+		}
+    </script>
+
+    <div>
+        <ul class="nav">
+            <li><a href="index.html"><i class="fa fa-home" aria-hidden="true" style="font-size: 18px;"></i></a></li>
+            <li><a href="#" class="current-page">Menu &nbsp;&nbsp;&nbsp;<i class="fa fa-cutlery" aria-hidden="true"></i></a></li>
+            <li class="hideOnMobile"><a href="index.html#anchorContact">Contact &nbsp;&nbsp;&nbsp;<i class="fa fa-address-book-o" aria-hidden="true"></i></a></li>
+            <li class="hideOnMobile"><a href="index.html#anchorLocation">Location &nbsp;&nbsp;&nbsp;<i class="fa fa-map" aria-hidden="true"></i></a></li>
+        </ul>
+    </div>
+
+    <button onclick="topFunction()" id="button_backToTop" title="Back to Top"><i class="fa fa-arrow-up" aria-hidden="true" style="font-size: 30px;"></i></button>
+
+    <div class="banner">
+		<div class="slideshow">
+			<div class="title">Gwynneville Kebab &amp; Pide House</div>
+			<div class="slideshow-slide" style="display: block; background-image: url('assets/images/gozleme.jpeg');"></div>
+			<div class="slideshow-slide" style="background-image: url('assets/images/burger.jpeg');"></div>
+			<div class="slideshow-slide" style="background-image: url('assets/images/kebabs.jpeg');"></div>
+		</div>
+	</div>
+
+    <div class="content">
+        <div class="text-centered">
+            <h2> Menu </h2>
+            <noscript>
+                Please enable Javascript in your browser settings to view the menu.
+                <br>
+                <a href="assets/downloads/Menu.pdf" target="_blank">View PDF menu instead</a>
+            </noscript>
+        </div>
+        <div id="loaderContainer"><div id="menuLoader" class="animate-loader"></div></div>
+        <div style="display:none;" id="menuContainer" class="animate-bottom" onload="">     
+            <a href="assets/downloads/Menu.pdf" target="_blank">Download Menu</a>
+            <br><br>
+            <div id="menu"></div>
+        </div>
+
+        <div class="text-centered">
+			<br><br>
+			<a href="http://www.facebook.com/sharer.php?u=bestKebabs.com.au" target="_blank" class="fa fa-facebook"></a>
+			<a href="https://twitter.com/share?url=bestKebabs.com.au&amp;text=Check%20out%20the%20best%20kebabs%20at%20bestKebabs.com.au&amp;hashtags=GwynnevilleKebabs" class="fa fa-twitter"></a>
+
+			<a href="mailto:?Subject=Gwynveville%20Kebab%20and%20Pide%20House&amp;Body=Check%20out%20the%20best%20kebabs%20at%20bestKebabs.com.au" class="fa fa-envelope-o" aria-hidden="true"></a>
+		</div>
+    </div>
+
+    <br><br><br><br>
+
+	<div class="footer">
+		<div class="content">
+			<p style="clear: right;">&copy; Gwynveville Kebab &amp; Pide House</p>
+
+			<table border="0px">
+				<tr>
+					<td><i class="fa fa-phone" aria-hidden="true"></i></td>
+					<td>Phone:  (02) 4229 4468</td>
+				</tr>
+				<tr>
+					<td><i class="fa fa-envelope" aria-hidden="true"></i></td>
+					<td>Email:  gwynnevilleKebabs@gmail.com</td>
+				</tr>
+			</table>
+		</div>
+	</div>
+
+</body>
+</html>

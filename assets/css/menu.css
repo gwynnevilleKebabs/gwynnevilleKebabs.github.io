@@ -1,0 +1,116 @@
+menu {
+    margin: 0px;
+    padding: 0px;
+}
+
+.menu-right-align {
+    text-align: right !important;
+}
+
+.menu-center-align {
+    text-align: center !important;
+}
+
+.menu-emphasize {
+    font-weight: bold;
+    background-color: #ffd7c1 !important;
+}
+
+
+menu .leftText {
+    text-align: left !important;
+    padding-left: 8px !important;
+}
+
+
+
+.menu-section p{
+    margin: 0;
+    padding: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-style: italic;
+    font-size: 14px !important;
+    color: #93292C;
+}
+
+menu-item-desc {
+    display: block;
+    color: #009900;
+    font-style: italic;
+    font-size: 13px !important;
+}
+
+.menu-section{
+    border-left: 5px solid #93292C;
+    background-color: #FDF2F0;
+    margin: 0;
+    margin-bottom: 10px;
+    min-height: 200px;
+    width: 100%;
+    float: left;
+}
+
+.menu-section table{
+    width: 100%;
+    height: 100%;
+    border-collapse: collapse;
+}
+
+.menu-section th {
+    font-weight: bold;
+    font-size: 16px !important;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    vertical-align: middle;
+    text-align: center;
+    color: #93292C;
+}
+
+.menu-section td {
+    padding: 8px;
+    padding-right: 0;
+    font-size: 14px !important;
+}
+
+.menu-section td#column-thin {width: 90px;}
+
+.menu-section tr {
+    text-align: left;
+    vertical-align: middle;
+}
+
+.menu-section tr:first-child{
+    border-bottom: 3px solid #93292C; 
+}
+
+.menu-section tr:nth-child(even){background-color: #F0D5E2;}
+
+.menu-section tr:hover {
+    background-color: #ffbabd;
+}
+
+
+
+
+div.gallery {
+    border: 3px solid #93292C;
+    float: left;
+    min-height: 270px;
+    width: 100%;
+    margin: 0;
+    margin-bottom: 10px;
+    display: inline;
+    background-size: cover;
+    padding: 15px;
+}
+
+div.gallery:hover {
+    opacity: 0.9;
+    filter: alpha(opacity=90); /* For IE8 and earlier */
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}

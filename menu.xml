@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<menu dateUpdated="4/6/17">
+
+    <section>
+        <image>assets/images/pizza.jpeg</image>
+
+        <heading>
+            <name>Pizza</name>
+            <column>Regular 9&quot;</column>
+            <column>Large 13&quot;</column>
+        </heading>
+
+        <item>
+            <name>1. Vegetarian Pizza</name>
+            <description>Tomato, onion, capsicum, olives, mushroom &amp; cheese</description>
+            <column>12</column>
+            <column>19</column>
+        </item>
+        <item>
+            <name>2. Chicken Pizza</name>
+            <description>Chicken, tomato, onion, capsicum, olives, mushroom &amp; cheese</description>
+            <column>14</column>
+            <column>21</column>
+        </item>
+        <item>
+            <name>3. Beef Pizza</name>
+            <description>Beef, tomato, onion, capsicum, olives, mushroom &amp; cheese</description>
+            <column>14</column>
+            <column>21</column>
+        </item>
+        <item>
+            <name>4. Meat Lovers Pizza</name>
+            <description>Beef, chicken, Turkish sausage, cheese &amp; BBQ sauce</description>
+            <column>15</column>
+            <column>22</column>
+        </item>
+        <item>
+            <name>5. Hawaiian Pizza</name>
+            <description>Chicken or Beef with pineapple, capsicum, onion &amp; cheese</description>
+            <column>14</column>
+            <column>21</column>
+        </item>
+        <item>
+            <name>6. Mexicano</name>
+            <description>Chicken or Beef with jalapeno, capsicum, onion, cheese &amp; chilli sauce</description>
+            <column>14</column>
+            <column>21</column>
+        </item>
+        <item>
+            <name>7. Cheese</name>
+            <column>10</column>
+            <column>17</column>
+        </item>
+        <item>
+            <name>8. Cheese &amp; Garlic</name>
+            <column>10</column>
+            <column>17</column>
+        </item>
+        <item>
+            <name>9. Sucuk Pizza</name>
+            <column>14</column>
+            <column>21</column>
+        </item>
+
+        <item style="right-align emphasize">
+            <name>Extra Beef, Chicken or Sucuk (Turkish sausage)</name>
+            <column>2</column>
+            <column>3</column>
+        </item>
+        <item style="right-align emphasize">
+            <name>Other extras</name>
+            <description>(each)</description>
+            <column>1</column>
+            <column>2</column>
+        </item>
+    </section>
+
+    <section>
+        <image>assets/images/gozleme.jpeg</image>
+
+        <heading>
+            <name>Gozleme</name>
+            <column> </column>
+        </heading>
+
+        <item>
+            <name>Spinach &amp; Feta Cheese</name>
+            <column>11</column>
+        </item>
+        <item>
+            <name>Potato, parsley &amp; Cheese</name>
+            <column>11</column>
+        </item>
+        <item>
+            <name>Savoury Mince &amp; Cheese</name>
+            <column>12</column>
+        </item>
+        <item>
+            <name>Chicken, Mushroom &amp; Cheese</name>
+            <column>12</column>
+        </item>
+    </section>
+
+    <section>
+        <heading>
+            <name>Turkish Pide - Vegetarian</name>
+            <column>Regular</column>
+            <column>Large</column>
+        </heading>
+
+        <item>
+            <name>1. Spinach &amp; Mushroom with cheese</name>
+            <column>11</column>
+            <column>18</column>
+        </item>
+        <item>
+            <name>2. Mushroom &amp; Onion with cheese</name>
+            <column>11</column>
+            <column>18</column>
+        </item>
+        <item>
+            <name>3. Eggplant &amp; Mushroom with garlic yoghurt &amp; cheese</name>
+            <column>11</column>
+            <column>18</column>
+        </item>
+        <item>
+            <name>4. Potato &amp; Parsley with onion &amp; cheese</name>
+            <column>11</column>
+            <column>18</column>
+        </item>
+        <item>
+            <name>5. Parsley &amp; Egg with cheese</name>
+            <column>11</column>
+            <column>18</column>
+        </item>
+        <item>
+            <name>6. Veggie Special</name>
+            <description>Sundried tomatoes, eggplant, cheese, artichokes, mushroom, olives &amp; garlic</description>
+            <column>12</column>
+            <column>19</column>
+        </item>
+        <item>
+            <name>7. Supreme</name>
+            <description>Onion, tomato, mushroom, spinach, garlic yoghurt, hummus, olives, eggplant &amp; cheese</description>
+            <column>12</column>
+            <column>19</column>
+        </item>
+        <item>
+            <name>8. House Special</name>
+            <description>Mushroom, tomato, garlic, olives, eggplant, jalapeno, potato &amp; cheese</description>
+            <column>12</column>
+            <column>19</column>
+        </item>
+
+        <item style="right-align emphasize">
+            <name>Add Beef, Chicken or Sucuk (Turkish sausage)</name>
+            <column>2</column>
+            <column>3</column>
+        </item>
+        <item style="right-align emphasize">
+            <name>Other extras</name>
+            <description>(each)</description>
+            <column>1</column>
+            <column>2</column>
+        </item>
+    </section>
+
+    <section>
+        <heading>
+            <name>Turkish Pide - Beef, Chicken, Sucuk</name>
+            <column>Regular</column>
+            <column>Large</column>
+        </heading>
+
+        <item>
+            <name>9. Meat Lovers</name>
+            <description>Beef, chicken, Turkish sausage, cheese &amp; BBQ sauce</description>
+            <column>14</column>
+            <column>21</column>
+        </item>
+        <item>
+            <name>10. Chicken with mushroom, onion &amp; cheese</name>
+            <column>13</column>
+            <column>20</column>
+        </item>
+        <item>
+            <name>11. Beef with mushroom, onion, capsicum &amp; cheese</name>
+            <column>13</column>
+            <column>20</column>
+        </item>
+        <item>
+            <name>12. Savoury Mince with Onion, Tomato &amp; cheese</name>
+            <column>13</column>
+            <column>20</column>
+        </item>
+        <item>
+            <name>13. Sucuk, egg &amp; cheese</name>
+            <column>13</column>
+            <column>20</column>
+        </item>
+
+        <item style="right-align emphasize">
+            <name>Add Beef, Chicken or Sucuk (Turkish sausage)</name>
+            <column>2</column>
+            <column>3</column>
+        </item>
+        <item style="right-align emphasize">
+            <name>Other extras</name>
+            <description>(each)</description>
+            <column>1</column>
+            <column>2</column>
+        </item>
+    </section>
+
+    <section>
+        <image>assets/images/kebabs.jpeg</image>
+
+        <heading>
+            <name>Doner Kebabs</name>
+            <column>Beef Roll</column>
+            <column>Chicken or Mixed Roll</column>
+        </heading>
+
+        <item>
+            <name>Regular</name>
+            <description>Lettuce, tomato, onion &amp; sauce</description>
+            <column>8</column>
+            <column>9</column>
+        </item>
+        <item>
+            <name>Junior</name>
+            <description>Lettuce, tomato, onion &amp; sauce</description>
+            <column>7</column>
+            <column>8</column>
+        </item>
+        <item>
+            <name>The Lot</name>
+            <description>Lettuce, tomato, onion, hummus, tabouli, cheese &amp; sauce</description>
+            <column>10.50</column>
+            <column>11.50</column>
+        </item>
+        <item>
+            <name>King Regular</name>
+            <description>Larger than normal size and comes with double bread</description>
+            <column>13</column>
+            <column>14</column>
+        </item>
+        <item>
+            <name>Hawaiian</name>
+            <description>Regular with cheese, sour cream, pineapple &amp; BBQ sauce</description>
+            <column>10.50</column>
+            <column>11.50</column>
+        </item>
+        <item>
+            <name>Mexican</name>
+            <description>Regular with cheese, sour cream, jalapeno &amp; chilli sauce</description>
+            <column>10.50</column>
+            <column>11.50</column>
+        </item>
+
+        <item style="right-align emphasize">
+            <name>COMBO</name>
+            <description>With Chips &amp; Can of Drink or Water</description>
+            <column>add 5</column>
+            <column>add 5</column>
+        </item>
+        <item style="right-align emphasize">
+            <name>Extra Meat</name>
+            <column>2</column>
+            <column>2</column>
+        </item>
+        <item style="right-align emphasize">
+            <name>Extras</name>
+            <description>Cheese, sour cream, tabouli, hummus, pineapple, Olives, garlic</description>
+            <column>1 each</column>
+            <column>1 each</column>
+        </item>
+    </section>
+
+    <section>
+        <heading>
+            <name>Plates</name>
+            <column> </column>
+        </heading>
+
+        <item>
+            <name>Kebab</name>
+            <description>Choice of meat with salad + Bread or Rice</description>
+            <column>14</column>
+        </item>
+        <item>
+            <name>Kebab &amp; Rice</name>
+            <description>Choice of meat cooked with onion, capsicum and mushroom served with rice</description>
+            <column>14</column>
+        </item>
+    </section>
+
+    <section>
+        <heading>
+            <name>Vegetarian Rolls</name>
+            <column> </column>
+        </heading>
+
+        <item>
+            <name>Felafel Roll</name>
+            <column>9</column>
+        </item>
+        <item>
+            <name>Zucchini Roll</name>
+            <column>9</column>
+        </item>
+        <item>
+            <name>Salad Roll</name>
+            <column>6</column>
+        </item>
+
+        <item style="right-align emphasize">
+            <name>COMBO</name>
+            <description> With Chips &amp; Can of Drink or Water</description>
+            <column>add 5</column>
+        </item>
+        <item style="right-align emphasize">
+            <name>Extras</name>
+            <description>Cheese, sour cream, tabouli, hummus, pineapple, Olives, garlic</description>
+            <column>1 each</column>
+        </item>
+
+        
+        <subtext>Lettuce, tomato, onion, hummus and tabouli</subtext>
+    </section>
+
+    <section>
+        <image>assets/images/snackPack.jpeg</image>
+
+        <heading>
+            <name>Kebab Snack Packs</name>
+            <column>Regular</column>
+            <column>Large</column>
+        </heading>
+
+        <item>
+            <name>Beef Snack Pack</name>
+            <column>10</column>
+            <column>15</column>
+        </item>
+        <item>
+            <name>Chicken Snack Pack</name>
+            <column>11</column>
+            <column>16</column>
+        </item>
+        <item>
+            <name>Mixed Snack Pack</name>
+            <column>11</column>
+            <column>16</column>
+        </item>
+        
+
+        <item style="right-align emphasize">
+            <name>Extra Meat</name>
+            <column>add 2</column>
+            <column>add 3</column>
+        </item>
+        <item style="right-align emphasize">
+            <name>Extras</name>
+            <description>Extras we recommend Cheese, garlic sauce</description>
+            <column>add 1 each</column>
+            <column>add 1 each</column>
+        </item>
+        
+        <subtext>(Kebab meat + Chips) with sauce</subtext>
+    </section>
+
+    <section>
+        <image>assets/images/burger.jpeg</image>
+
+        <heading>
+            <name>Burgers</name>
+            <column> </column>
+        </heading>
+
+        <item>
+            <name>Beef Burger</name>
+            <description>Lettuce, tomato, onion, beetroot &amp; sauce</description>
+            <column>8</column>
+        </item>
+        <item>
+            <name>Chicken Burger</name>
+            <description>Lettuce, tomato, onion, beetroot &amp; sauce</description>
+            <column>8</column>
+        </item>
+        <item>
+            <name>Beef Kebab Burger</name>
+            <description>Lettuce, tomato, onion &amp; sauce</description>
+            <column>7</column>
+        </item>
+        <item>
+            <name>Chicken Kebab Burger</name>
+            <description>Lettuce, tomato, onion &amp; sauce</description>
+            <column>7</column>
+        </item>
+        
+
+        <item style="right-align emphasize">
+            <name>COMBO</name>
+            <description>With Chips &amp; Can of Drink or Water</description>
+            <column>add 5</column>
+        </item>
+        <item style="right-align emphasize">
+            <name>Extras</name>
+            <description>Cheese, pineapple, or egg</description>
+            <column>add 1 each</column>
+        </item>
+    </section>
+
+    <section>
+        <heading>
+            <name> </name>
+            <column>Small</column>
+            <column>Regular</column>
+            <column>Large</column>
+        </heading>
+
+        <item>
+            <name>Chips</name>
+            <column>4</column>
+            <column>5.50</column>
+            <column>7</column>
+        </item>
+        <item>
+            <name>Garlic Bread</name>
+            <column> </column>
+            <column>4</column>
+            <column> </column>
+        </item>
+    </section>
+
+</menu>

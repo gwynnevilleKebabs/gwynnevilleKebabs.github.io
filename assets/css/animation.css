@@ -1,0 +1,70 @@
+@keyframes animation_fadeIn {
+  0% {
+    opacity: 0.2;
+    filter: alpha(opacity=20); /* For IE8 and earlier */
+  }
+  100% {
+  	opacity: 1;
+    filter: alpha(opacity=100); /* For IE8 and earlier */
+  }
+}
+
+#animate-fadeIn1 {animation: animation_fadeIn 1s;}
+#animate-fadeIn2 {animation: animation_fadeIn 2s;}
+#animate-fadeIn3 {animation: animation_fadeIn 3s;}
+#animate-fadeIn4 {animation: animation_fadeIn 4s;}
+
+
+
+
+
+
+@-webkit-keyframes spin {
+	0% { -webkit-transform: rotate(0deg); }
+	100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+	0% { transform: rotate(0deg); }
+	100% { transform: rotate(360deg); }
+}
+
+#loaderContainer {
+	width: 100%;
+	padding-left: 50%;
+	margin-top: 100px;
+}
+
+.animate-loader {
+	z-index: 1;
+	width: 150px;
+	height: 150px;
+	padding: 0;
+	margin: -59px 0 0 -59px;
+	border: 16px solid #f3f3f3;
+	border-radius: 50%;
+	border-top: 16px solid #93292C;
+	width: 120px;
+	height: 120px;
+	-webkit-animation: spin 2s linear infinite;
+	animation: spin 2s linear infinite;
+}
+
+/* Add animation to "page content" */
+.animate-bottom {
+	position: relative;
+	-webkit-animation-name: animatebottom;
+	-webkit-animation-duration: 1s;
+	animation-name: animatebottom;
+	animation-duration: 1s
+}
+
+@-webkit-keyframes animatebottom {
+	from { bottom:-100px; opacity:0 } 
+	to { bottom:0px; opacity:1 }
+}
+
+@keyframes animatebottom { 
+	from{ bottom:-100px; opacity:0 } 
+	to{ bottom:0; opacity:1 }
+}
