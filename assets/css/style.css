@@ -194,4 +194,7 @@ div.content-wide {
     img, .gallery, .banner, .nav, #button_backToTop, a {
         display: none !important;
     }
+    body {
+        font-family: 'Arial', sans-serif;
+    }
 }
