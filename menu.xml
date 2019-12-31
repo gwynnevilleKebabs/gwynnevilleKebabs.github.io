@@ -351,8 +351,14 @@
 
         <item style="right-align emphasize">
             <name>Extra Meat</name>
-            <column>2 (King 3)</column>
-            <column>2 (King 3)</column>
+            <column>
+                Regular 2 
+                King 3
+            </column>
+            <column>
+                Regular 2 
+                King 3
+            </column>
         </item>
         <item style="right-align emphasize">
             <name>Other extras</name>
