@@ -537,4 +537,163 @@
         </item>
     </section>
 
+    <section>
+        <image>assets/images/pizza.jpeg</image>
+
+        <heading>
+            <name>Extras</name>
+            <column>Regular</column>
+            <column>Large/King</column>
+        </heading>
+
+        <item>
+            <name>Extra Meat</name>
+            <column>2</column>
+            <column>3</column>
+        </item>
+        <item>
+            <name>Cheese</name>
+            <column>1</column>
+            <column>2</column>
+        </item>
+        <item>
+            <name>Aioli Sauce</name>
+            <column>1</column>
+            <column>2</column>
+        </item>
+        <item>
+            <name>Sour Cream</name>
+            <column>1</column>
+            <column>2</column>
+        </item>
+        <item>
+            <name>Garlic Yoghurt Sauce</name>
+            <column>1</column>
+            <column>2</column>
+        </item>
+        <item>
+            <name>Hummus</name>
+            <column>1</column>
+            <column>2</column>
+        </item>
+        <item>
+            <name>Mayonnaise</name>
+            <column>1</column>
+            <column>2</column>
+        </item>
+        <item>
+            <name>Tabouli</name>
+            <column>1</column>
+            <column>2</column>
+        </item>
+        <item>
+            <name>Artichoke</name>
+            <column>1</column>
+            <column>2</column>
+        </item>
+        <item>
+            <name>Beetroot</name>
+            <column>1</column>
+            <column>2</column>
+        </item>
+        <item>
+            <name>Capsicum</name>
+            <column>1</column>
+            <column>2</column>
+        </item>
+        <item>
+            <name>Egg</name>
+            <description>(each)</description>
+            <column>1</column>
+            <column>2</column>
+        </item>
+        <item>
+            <name>Eggplant</name>
+            <column>1</column>
+            <column>2</column>
+        </item>
+        <item>
+            <name>Felafel</name>
+            <description>(each)</description>
+            <column>2</column>
+            <column>2</column>
+        </item>
+        <item>
+            <name>Feta Cheese</name>
+            <column>1</column>
+            <column>2</column>
+        </item>
+        <item>
+            <name>Jalapenos</name>
+            <column>1</column>
+            <column>2</column>
+        </item>
+        <item>
+            <name>Lettuce</name>
+            <column>1</column>
+            <column>2</column>
+        </item>
+        <item>
+            <name>Mushroom</name>
+            <column>1</column>
+            <column>2</column>
+        </item>
+        <item>
+            <name>Olives</name>
+            <column>1</column>
+            <column>2</column>
+        </item>
+        <item>
+            <name>Onions</name>
+            <column>1</column>
+            <column>2</column>
+        </item>
+        <item>
+            <name>Parsley</name>
+            <column>1</column>
+            <column>2</column>
+        </item>
+        <item>
+            <name>Pineapple</name>
+            <column>1</column>
+            <column>2</column>
+        </item>
+        <item>
+            <name>Potato</name>
+            <column>1</column>
+            <column>2</column>
+        </item>
+        <item>
+            <name>Red Cabbage</name>
+            <column>1</column>
+            <column>2</column>
+        </item>
+        <item>
+            <name>Spinach</name>
+            <column>1</column>
+            <column>2</column>
+        </item>
+        <item>
+            <name>Sucuk</name>
+            <column>2</column>
+            <column>3</column>
+        </item>
+        <item>
+            <name>Sun Dried Tomatoes</name>
+            <column>1</column>
+            <column>2</column>
+        </item>
+        <item>
+            <name>Tomato</name>
+            <column>1</column>
+            <column>2</column>
+        </item>
+        <item>
+            <name>Extra Bread</name>
+            <description>(each)</description>
+            <column>1</column>
+            <column>1</column>
+        </item>
+    </section>
+
 </menu>
