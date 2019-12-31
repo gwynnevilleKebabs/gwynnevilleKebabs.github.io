@@ -13,38 +13,38 @@
         <item>
             <name>1. Vegetarian Pizza</name>
             <description>Tomato, onion, capsicum, olives, mushroom &amp; cheese</description>
-            <column>12</column>
-            <column>19</column>
+            <column>13</column>
+            <column>21</column>
         </item>
         <item>
             <name>2. Chicken Pizza</name>
             <description>Chicken, tomato, onion, capsicum, olives, mushroom &amp; cheese</description>
-            <column>14</column>
-            <column>21</column>
-        </item>
-        <item>
-            <name>3. Beef Pizza</name>
-            <description>Beef, tomato, onion, capsicum, olives, mushroom &amp; cheese</description>
-            <column>14</column>
-            <column>21</column>
-        </item>
-        <item>
-            <name>4. Meat Lovers Pizza</name>
-            <description>Beef, chicken, Turkish sausage, cheese &amp; BBQ sauce</description>
             <column>15</column>
             <column>22</column>
         </item>
         <item>
+            <name>3. Beef Pizza</name>
+            <description>Beef, tomato, onion, capsicum, olives, mushroom &amp; cheese</description>
+            <column>15</column>
+            <column>22</column>
+        </item>
+        <item>
+            <name>4. Meat Lovers Pizza</name>
+            <description>Beef, chicken, Turkish sausage, cheese &amp; BBQ sauce</description>
+            <column>16</column>
+            <column>24</column>
+        </item>
+        <item>
             <name>5. Hawaiian Pizza</name>
             <description>Chicken or Beef with pineapple, capsicum, onion &amp; cheese</description>
-            <column>14</column>
-            <column>21</column>
+            <column>15</column>
+            <column>22</column>
         </item>
         <item>
             <name>6. Mexicano</name>
             <description>Chicken or Beef with jalapeno, capsicum, onion, cheese &amp; chilli sauce</description>
-            <column>14</column>
-            <column>21</column>
+            <column>15</column>
+            <column>22</column>
         </item>
         <item>
             <name>7. Cheese</name>
@@ -58,12 +58,13 @@
         </item>
         <item>
             <name>9. Sucuk Pizza</name>
-            <column>14</column>
-            <column>21</column>
+            <column>15</column>
+            <column>22</column>
         </item>
 
         <item style="right-align emphasize">
             <name>Extra Beef, Chicken or Sucuk (Turkish sausage)</name>
+            <description>(each)</description>
             <column>2</column>
             <column>3</column>
         </item>
@@ -73,7 +74,20 @@
             <column>1</column>
             <column>2</column>
         </item>
+        <item style="right-align emphasize">
+            <name>COMBO</name>
+            <description>With Small Chips &amp; 375ml Can of Drink or Water</description>
+            <column>add 7</column>
+            <column>add 7</column>
+        </item>
+        <item style="right-align emphasize">
+            <name>Upsized COMBO</name>
+            <description>With Medium Chips &amp; 600ml Bottle of Drink or Water</description>
+            <column>add 10</column>
+            <column>add 10</column>
+        </item>
     </section>
+
 
     <section>
         <image>assets/images/gozleme.jpeg</image>
@@ -85,19 +99,39 @@
 
         <item>
             <name>Spinach &amp; Feta Cheese</name>
-            <column>12</column>
+            <column>13</column>
         </item>
         <item>
             <name>Potato, Parsley &amp; Cheese</name>
-            <column>12</column>
+            <column>13</column>
         </item>
         <item>
             <name>Savoury Mince &amp; Cheese</name>
-            <column>13</column>
+            <column>14</column>
         </item>
         <item>
             <name>Chicken, Mushroom &amp; Cheese</name>
-            <column>13</column>
+            <column>14</column>
+        </item>
+        <item style="right-align emphasize">
+            <name>Add Chicken, Sav. Mince, Sucuk</name>
+            <description>(each)</description>
+            <column>2</column>
+        </item>
+        <item style="right-align emphasize">
+            <name>Other extras</name>
+            <description>(each)</description>
+            <column>1</column>
+        </item>
+        <item style="right-align emphasize">
+            <name>COMBO</name>
+            <description>With Small Chips &amp; 375ml Can of Drink or Water</description>
+            <column>add 7</column>
+        </item>
+        <item style="right-align emphasize">
+            <name>Upsized COMBO</name>
+            <description>With Medium Chips &amp; 600ml Bottle of Drink or Water</description>
+            <column>add 10</column>
         </item>
     </section>
 
@@ -110,46 +144,46 @@
 
         <item>
             <name>1. Spinach &amp; Mushroom with cheese</name>
-            <column>12</column>
-            <column>20</column>
+            <column>13</column>
+            <column>21</column>
         </item>
         <item>
             <name>2. Mushroom &amp; Onion with cheese</name>
-            <column>12</column>
-            <column>20</column>
+            <column>13</column>
+            <column>21</column>
         </item>
         <item>
             <name>3. Eggplant &amp; Mushroom with garlic yoghurt &amp; cheese</name>
-            <column>12</column>
-            <column>20</column>
+            <column>13</column>
+            <column>21</column>
         </item>
         <item>
             <name>4. Potato &amp; Parsley with onion &amp; cheese</name>
-            <column>12</column>
-            <column>20</column>
+            <column>13</column>
+            <column>21</column>
         </item>
         <item>
             <name>5. Parsley &amp; Egg with cheese</name>
-            <column>12</column>
-            <column>20</column>
+            <column>13</column>
+            <column>21</column>
         </item>
         <item>
             <name>6. Veggie Special</name>
             <description>Sundried tomatoes, eggplant, cheese, artichokes, mushroom, olives &amp; garlic</description>
-            <column>13</column>
-            <column>21</column>
+            <column>14</column>
+            <column>22</column>
         </item>
         <item>
             <name>7. Supreme</name>
             <description>Onion, tomato, mushroom, spinach, garlic yoghurt, hummus, olives, eggplant &amp; cheese</description>
-            <column>13</column>
-            <column>21</column>
+            <column>14</column>
+            <column>22</column>
         </item>
         <item>
             <name>8. House Special</name>
             <description>Mushroom, tomato, garlic, olives, eggplant, jalapeno, potato &amp; cheese</description>
-            <column>13</column>
-            <column>21</column>
+            <column>14</column>
+            <column>22</column>
         </item>
 
         <item style="right-align emphasize">
@@ -162,6 +196,18 @@
             <description>(each)</description>
             <column>1</column>
             <column>2</column>
+        </item>
+        <item style="right-align emphasize">
+            <name>COMBO</name>
+            <description>With Small Chips &amp; 375ml Can of Drink or Water</description>
+            <column>add 7</column>
+            <column>add 7</column>
+        </item>
+        <item style="right-align emphasize">
+            <name>Upsized COMBO</name>
+            <description>With Medium Chips &amp; 600ml Bottle of Drink or Water</description>
+            <column>add 10</column>
+            <column>add 10</column>
         </item>
     </section>
 
@@ -175,28 +221,28 @@
         <item>
             <name>9. Meat Lovers</name>
             <description>Beef, chicken, Turkish sausage, cheese &amp; BBQ sauce</description>
+            <column>16</column>
+            <column>24</column>
+        </item>
+        <item>
+            <name>10. Chicken with mushroom, onion &amp; cheese</name>
+            <column>25</column>
+            <column>23</column>
+        </item>
+        <item>
+            <name>11. Beef with mushroom, onion, capsicum &amp; cheese</name>
             <column>15</column>
             <column>23</column>
         </item>
         <item>
-            <name>10. Chicken with mushroom, onion &amp; cheese</name>
-            <column>14</column>
-            <column>22</column>
-        </item>
-        <item>
-            <name>11. Beef with mushroom, onion, capsicum &amp; cheese</name>
-            <column>14</column>
-            <column>22</column>
-        </item>
-        <item>
             <name>12. Savoury Mince with Onion, Tomato &amp; cheese</name>
-            <column>14</column>
-            <column>22</column>
+            <column>15</column>
+            <column>23</column>
         </item>
         <item>
             <name>13. Sucuk, egg &amp; cheese</name>
-            <column>14</column>
-            <column>22</column>
+            <column>15</column>
+            <column>23</column>
         </item>
 
         <item style="right-align emphasize">
@@ -210,6 +256,52 @@
             <column>1</column>
             <column>2</column>
         </item>
+        <item style="right-align emphasize">
+            <name>COMBO</name>
+            <description>With Small Chips &amp; 375ml Can of Drink or Water</description>
+            <column>add 7</column>
+            <column>add 7</column>
+        </item>
+        <item style="right-align emphasize">
+            <name>Upsized COMBO</name>
+            <description>With Medium Chips &amp; 600ml Bottle of Drink or Water</description>
+            <column>add 10</column>
+            <column>add 10</column>
+        </item>
+    </section>
+
+    <section>
+        <heading>
+            <name>Vegetarian Rolls</name>
+            <column> </column>
+        </heading>
+
+        <item>
+            <name>Felafel Roll</name>
+            <column>9</column>
+        </item>
+        <item>
+            <name>Zucchini Roll</name>
+            <column>9</column>
+        </item>
+        <item>
+            <name>Salad Roll</name>
+            <column>7</column>
+        </item>
+
+        <item style="right-align emphasize">
+            <name>COMBO</name>
+            <description>With Small Chips &amp; 375ml Can of Drink or Water</description>
+            <column>add 7</column>
+        </item>
+        <item style="right-align emphasize">
+            <name>Upsized COMBO</name>
+            <description>With Medium Chips &amp; 600ml Bottle of Drink or Water</description>
+            <column>add 10</column>
+        </item>
+
+        
+        <subtext>Lettuce, tomato, onion, hummus and tabouli</subtext>
     </section>
 
     <section>
@@ -242,8 +334,8 @@
         <item>
             <name>King Regular</name>
             <description>Larger than normal size and comes with double bread</description>
-            <column>14</column>
             <column>15</column>
+            <column>16</column>
         </item>
         <item>
             <name>Hawaiian</name>
@@ -259,27 +351,27 @@
         </item>
 
         <item style="right-align emphasize">
+            <name>Extra Meat</name>
+            <column>2 (King 3)</column>
+            <column>2 (King 3)</column>
+        </item>
+        <item style="right-align emphasize">
+            <name>Other extras</name>
+            <description>(each)</description>
+            <column>See Extras Section</column>
+            <column>See Extras Section</column>
+        </item>
+        <item style="right-align emphasize">
             <name>COMBO</name>
-            <description>With Small Chips &amp; Can of Drink or Water</description>
-            <column>add 6</column>
-            <column>add 6</column>
+            <description>With Small Chips &amp; 375ml Can of Drink or Water</description>
+            <column>add 7</column>
+            <column>add 7</column>
         </item>
         <item style="right-align emphasize">
             <name>Upsized COMBO</name>
-            <description>With Medium Chips &amp; Bottle of Drink or Water</description>
-            <column>add 8</column>
-            <column>add 8</column>
-        </item>
-        <item style="right-align emphasize">
-            <name>Extra Meat</name>
-            <column>2</column>
-            <column>2</column>
-        </item>
-        <item style="right-align emphasize">
-            <name>Extras</name>
-            <description>Cheese, sour cream, tabouli, hummus, pineapple, Olives, garlic</description>
-            <column>1 each</column>
-            <column>1 each</column>
+            <description>With Medium Chips &amp; 600ml Bottle of Drink or Water</description>
+            <column>add 10</column>
+            <column>add 10</column>
         </item>
     </section>
 
@@ -293,54 +385,39 @@
         <item>
             <name>Kebab</name>
             <description>Choice of meat with salad + Bread or Rice</description>
-            <column>15</column>
-            <column>16</column>
+            <column>17</column>
+            <column>19</column>
         </item>
         <item>
             <name>Kebab &amp; Rice</name>
             <description>Choice of meat cooked with onion, capsicum and mushroom served with rice</description>
-            <column>15</column>
-            <column>16</column>
+            <column>17</column>
+            <column>19</column>
         </item>
-    </section>
-
-    <section>
-        <heading>
-            <name>Vegetarian Rolls</name>
-            <column> </column>
-        </heading>
-
-        <item>
-            <name>Felafel Roll</name>
-            <column>9</column>
+        <item style="right-align emphasize">
+            <name>Extra Meat</name>
+            <description>Beef, Chicken, Sucuk</description>
+            <column>2</column>
+            <column>2</column>
         </item>
-        <item>
-            <name>Zucchini Roll</name>
-            <column>9</column>
+        <item style="right-align emphasize">
+            <name>Other extras</name>
+            <description>(each)</description>
+            <column>1</column>
+            <column>1</column>
         </item>
-        <item>
-            <name>Salad Roll</name>
-            <column>6</column>
-        </item>
-
         <item style="right-align emphasize">
             <name>COMBO</name>
-            <description>With Small Chips &amp; Can of Drink or Water</description>
-            <column>add 6</column>
+            <description>With Small Chips &amp; 375ml Can of Drink or Water</description>
+            <column>add 7</column>
+            <column>add 7</column>
         </item>
         <item style="right-align emphasize">
             <name>Upsized COMBO</name>
-            <description>With Medium Chips &amp; Bottle of Drink or Water</description>
-            <column>add 8</column>
+            <description>With Medium Chips &amp; 600ml Bottle of Drink or Water</description>
+            <column>add 10</column>
+            <column>add 10</column>
         </item>
-        <item style="right-align emphasize">
-            <name>Extras</name>
-            <description>Cheese, sour cream, tabouli, hummus, pineapple, Olives, garlic</description>
-            <column>1 each</column>
-        </item>
-
-        
-        <subtext>Lettuce, tomato, onion, hummus and tabouli</subtext>
     </section>
 
     <section>
@@ -354,31 +431,43 @@
 
         <item>
             <name>Beef Snack Pack</name>
-            <column>11</column>
-            <column>17</column>
+            <column>13</column>
+            <column>19</column>
         </item>
         <item>
             <name>Chicken Snack Pack</name>
-            <column>12</column>
-            <column>18</column>
+            <column>14</column>
+            <column>20</column>
         </item>
         <item>
             <name>Mixed Snack Pack</name>
-            <column>12</column>
-            <column>18</column>
+            <column>14</column>
+            <column>20</column>
         </item>
         
 
         <item style="right-align emphasize">
-            <name>Extra Meat</name>
-            <column>add 2</column>
-            <column>add 3</column>
+            <name>Add Extra Meat</name>
+            <column>2</column>
+            <column>3</column>
         </item>
         <item style="right-align emphasize">
             <name>Extras</name>
             <description>We recommend Cheese, garlic sauce</description>
-            <column>1 each</column>
-            <column>1 each</column>
+            <column>1</column>
+            <column>2</column>
+        </item>
+        <item style="right-align emphasize">
+            <name>COMBO</name>
+            <description>With Small Chips &amp; 375ml Can of Drink or Water</description>
+            <column>add 7</column>
+            <column>add 7</column>
+        </item>
+        <item style="right-align emphasize">
+            <name>Upsized COMBO</name>
+            <description>With Medium Chips &amp; 600ml Bottle of Drink or Water</description>
+            <column>add 10</column>
+            <column>add 10</column>
         </item>
         
         <subtext>(Kebab meat + Chips) with sauce</subtext>
@@ -395,12 +484,12 @@
         <item>
             <name>Beef Burger</name>
             <description>Lettuce, tomato, onion, beetroot &amp; sauce</description>
-            <column>8</column>
+            <column>9</column>
         </item>
         <item>
             <name>Chicken Burger</name>
             <description>Lettuce, tomato, onion, beetroot &amp; sauce</description>
-            <column>9</column>
+            <column>10</column>
         </item>
         <item>
             <name>Beef Kebab Burger</name>
@@ -416,18 +505,13 @@
 
         <item style="right-align emphasize">
             <name>COMBO</name>
-            <description>With Small Chips &amp; Can of Drink or Water</description>
-            <column>add 6</column>
+            <description>With Small Chips &amp; 375ml Can of Drink or Water</description>
+            <column>add 7</column>
         </item>
         <item style="right-align emphasize">
             <name>Upsized COMBO</name>
-            <description>With Medium Chips &amp; Bottle of Drink or Water</description>
-            <column>add 8</column>
-        </item>
-        <item style="right-align emphasize">
-            <name>Extras</name>
-            <description>Cheese, pineapple, egg, or other</description>
-            <column>1 each</column>
+            <description>With Medium Chips &amp; 600ml Bottle of Drink or Water</description>
+            <column>add 10</column>
         </item>
     </section>
 
@@ -441,14 +525,14 @@
 
         <item>
             <name>Chips</name>
-            <column>5</column>
-            <column>6.50</column>
-            <column>8</column>
+            <column>5.50</column>
+            <column>7</column>
+            <column>9</column>
         </item>
         <item>
             <name>Garlic Bread</name>
             <column> </column>
-            <column>4</column>
+            <column>6</column>
             <column> </column>
         </item>
     </section>
