@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
+<?xml version="1.0" encoding="UTF-8" ?>
 <menu dateUpdated="4/6/17">
 
     <section>
@@ -70,9 +70,9 @@
         </item>
         <item style="right-align emphasize">
             <name>Other extras</name>
-            <description>(each)</description>
-            <column>1</column>
-            <column>2</column>
+            <description>(see Extras section at bottom of page)</description>
+            <column> - </column>
+            <column> - </column>
         </item>
         <item style="right-align emphasize">
             <name>COMBO</name>
@@ -120,8 +120,8 @@
         </item>
         <item style="right-align emphasize">
             <name>Other extras</name>
-            <description>(each)</description>
-            <column>1</column>
+            <description>(see Extras section at bottom of page)</description>
+            <column> - </column>
         </item>
         <item style="right-align emphasize">
             <name>COMBO</name>
@@ -193,9 +193,9 @@
         </item>
         <item style="right-align emphasize">
             <name>Other extras</name>
-            <description>(each)</description>
-            <column>1</column>
-            <column>2</column>
+            <description>(see Extras section at bottom of page)</description>
+            <column> - </column>
+            <column> - </column>
         </item>
         <item style="right-align emphasize">
             <name>COMBO</name>
@@ -252,9 +252,9 @@
         </item>
         <item style="right-align emphasize">
             <name>Other extras</name>
-            <description>(each)</description>
-            <column>1</column>
-            <column>2</column>
+            <description>(see Extras section at bottom of page)</description>
+            <column> - </column>
+            <column> - </column>
         </item>
         <item style="right-align emphasize">
             <name>COMBO</name>
@@ -300,7 +300,6 @@
             <column>add 10</column>
         </item>
 
-        
         <subtext>Lettuce, tomato, onion, hummus and tabouli</subtext>
     </section>
 
@@ -357,9 +356,9 @@
         </item>
         <item style="right-align emphasize">
             <name>Other extras</name>
-            <description>(each)</description>
-            <column>See Extras Section</column>
-            <column>See Extras Section</column>
+            <description>(see Extras section at bottom of page)</description>
+            <column> - </column>
+            <column> - </column>
         </item>
         <item style="right-align emphasize">
             <name>COMBO</name>
@@ -402,9 +401,9 @@
         </item>
         <item style="right-align emphasize">
             <name>Other extras</name>
-            <description>(each)</description>
-            <column>1</column>
-            <column>1</column>
+            <description>(see Extras section at bottom of page)</description>
+            <column> - </column>
+            <column> - </column>
         </item>
         <item style="right-align emphasize">
             <name>COMBO</name>
@@ -444,7 +443,6 @@
             <column>14</column>
             <column>20</column>
         </item>
-        
 
         <item style="right-align emphasize">
             <name>Add Extra Meat</name>
@@ -453,9 +451,9 @@
         </item>
         <item style="right-align emphasize">
             <name>Extras</name>
-            <description>We recommend Cheese, garlic sauce</description>
-            <column>1</column>
-            <column>2</column>
+            <description>(see Extras section at bottom of page)</description>
+            <column> - </column>
+            <column> - </column>
         </item>
         <item style="right-align emphasize">
             <name>COMBO</name>
@@ -469,7 +467,7 @@
             <column>add 10</column>
             <column>add 10</column>
         </item>
-        
+
         <subtext>(Kebab meat + Chips) with sauce</subtext>
     </section>
 
@@ -501,7 +499,7 @@
             <description>Lettuce, tomato, onion &amp; sauce</description>
             <column>8</column>
         </item>
-        
+
 
         <item style="right-align emphasize">
             <name>COMBO</name>
@@ -538,8 +536,6 @@
     </section>
 
     <section>
-        <image>assets/images/pizza.jpeg</image>
-
         <heading>
             <name>Extras</name>
             <column>Regular</column>
