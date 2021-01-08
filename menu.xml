@@ -107,11 +107,11 @@
         </item>
         <item>
             <name>Savoury Mince &amp; Cheese</name>
-            <column>14</column>
+            <column>15</column>
         </item>
         <item>
             <name>Chicken, Mushroom &amp; Cheese</name>
-            <column>14</column>
+            <column>15</column>
         </item>
         <item style="right-align emphasize">
             <name>Add Chicken, Sav. Mince, Sucuk</name>
@@ -278,15 +278,15 @@
 
         <item>
             <name>Felafel Roll</name>
-            <column>9</column>
+            <column>10</column>
         </item>
         <item>
             <name>Zucchini Roll</name>
-            <column>9</column>
+            <column>10</column>
         </item>
         <item>
             <name>Salad Roll</name>
-            <column>7</column>
+            <column>8</column>
         </item>
 
         <item style="right-align emphasize">
@@ -315,38 +315,38 @@
         <item>
             <name>Regular</name>
             <description>Lettuce, tomato, onion &amp; sauce</description>
-            <column>9</column>
             <column>10</column>
+            <column>11</column>
         </item>
         <item>
             <name>Junior</name>
             <description>Lettuce, tomato, onion &amp; sauce</description>
-            <column>8</column>
             <column>9</column>
+            <column>10</column>
         </item>
         <item>
             <name>The Lot</name>
             <description>Lettuce, tomato, onion, hummus, tabouli, cheese &amp; sauce</description>
-            <column>11.50</column>
             <column>12.50</column>
+            <column>13.50</column>
         </item>
         <item>
             <name>King Regular</name>
             <description>Larger than normal size and comes with double bread</description>
-            <column>15</column>
             <column>16</column>
+            <column>17</column>
         </item>
         <item>
             <name>Hawaiian</name>
             <description>Regular with cheese, sour cream, pineapple &amp; BBQ sauce</description>
-            <column>11.50</column>
             <column>12.50</column>
+            <column>13.50</column>
         </item>
         <item>
             <name>Mexican</name>
             <description>Regular with cheese, sour cream, jalapeno &amp; chilli sauce</description>
-            <column>11.50</column>
             <column>12.50</column>
+            <column>13.50</column>
         </item>
 
         <item style="right-align emphasize">
@@ -486,16 +486,6 @@
         </heading>
 
         <item>
-            <name>Beef Burger</name>
-            <description>Lettuce, tomato, onion, beetroot &amp; sauce</description>
-            <column>9</column>
-        </item>
-        <item>
-            <name>Chicken Burger</name>
-            <description>Lettuce, tomato, onion, beetroot &amp; sauce</description>
-            <column>10</column>
-        </item>
-        <item>
             <name>Beef Kebab Burger</name>
             <description>Lettuce, tomato, onion &amp; sauce</description>
             <column>7</column>
@@ -536,7 +526,7 @@
         <item>
             <name>Garlic Bread</name>
             <column> </column>
-            <column>6</column>
+            <column>4.50</column>
             <column> </column>
         </item>
     </section>
