@@ -436,18 +436,18 @@
 
         <item>
             <name>Beef Snack Pack</name>
-            <column>13</column>
-            <column>19</column>
+            <column>14</column>
+            <column>20</column>
         </item>
         <item>
             <name>Chicken Snack Pack</name>
-            <column>14</column>
-            <column>20</column>
+            <column>15</column>
+            <column>21</column>
         </item>
         <item>
             <name>Mixed Snack Pack</name>
-            <column>14</column>
-            <column>20</column>
+            <column>15</column>
+            <column>21</column>
         </item>
 
         <item style="right-align emphasize">
