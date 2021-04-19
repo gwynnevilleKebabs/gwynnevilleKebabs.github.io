@@ -7,7 +7,7 @@
         <heading>
             <name>Pizza</name>
             <column>Regular 9&quot;</column>
-            <column>Large 13&quot;</column>
+            <column>Large 13&quot;</column>zu
         </heading>
 
         <item>
@@ -278,10 +278,6 @@
 
         <item>
             <name>Felafel Roll</name>
-            <column>10</column>
-        </item>
-        <item>
-            <name>Zucchini Roll</name>
             <column>10</column>
         </item>
         <item>
