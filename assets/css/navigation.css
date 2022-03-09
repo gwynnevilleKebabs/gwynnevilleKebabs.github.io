@@ -16,10 +16,23 @@ ul.nav li a {
     float: left;
     padding: 15px;
 }
-
 ul.nav li a:hover:not(.active) {
     background-color: #f1f1f1;
     color: black;
+}
+
+ul.nav li a.round-button {
+    border-radius: 25px;
+    background-color: #f1f1f1;
+    color: black;
+    padding: 5px 15px 5px 15px;
+    margin: 10px 5px 10px 5px;
+}
+
+ul.nav li a.round-button:hover:not(.active) {
+    background-color: #BC7172;
+    font-weight: bold;
+    color: white;
 }
 
 .current-page {
