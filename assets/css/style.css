@@ -32,6 +32,13 @@ html {
 }
 
 
+.menuScreenImage {
+    width: 100%;
+    height: 100vh;
+    height: auto;
+}
+
+
 
 .hideOnMobile {}
 .hideOnTablet {}
@@ -135,6 +142,8 @@ div.content-wide {
     padding: 0;
     margin: 0;
 }
+
+
 
 
 /* TABLET */
